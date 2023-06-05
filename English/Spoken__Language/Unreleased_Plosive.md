@@ -15,8 +15,8 @@ goodnight, good luck.
 bi(g) boy, wha(t) to, ta(ke) time, ge(t) down    
 Se(p)tember, bi(g) natio     
 
-如果单词的ed前面一个音标是清辅音，那么ed是发/t/否则是发/d/     
-eg. sto(pp)ed      
+  如果单词的ed前面一个音标是清辅音，那么ed是发/t/否则是发/d/     
+  eg. sto(pp)ed      
 
 3. 句子练习    
 It takes about two hours to get there.      
