@@ -22,3 +22,7 @@ It takes about two hours to get there.
 That is what to die for! I don’t care if I max out my credit card!      
 I’ve got to have it!     
 
+省音    
+----
+如果同时满足⼀个单词/两个临近单词有3个辅⾳，t/d在中间/t/前⾯的辅⾳是清辅⾳；或/d/前⾯的辅⾳是浊辅⾳才可以省⾳： t/d直接消失 。   
+textbook /tek**stb**ʊk/, last lesson /la:**st l**esn/    
