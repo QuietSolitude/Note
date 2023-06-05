@@ -15,16 +15,25 @@ goodnight, good luck.
 bi(g) boy, wha(t) to, ta(ke) time, ge(t) down    
 Se(p)tember, bi(g) natio     
 
-  如果单词的ed前面一个音标是清辅音，那么ed是发/t/否则是发/d/     
-  eg. sto(pp)ed      
+3. 如果单词的ed前面一个音标是清辅音，那么ed是发/t/否则是发/d/     
+eg. sto(pp)ed      
 
-3. 句子练习    
+4. 句子练习    
 It takes about two hours to get there.      
 That is what to die for! I don’t care if I max out my credit card!      
 I’ve got to have it!     
 
 省音    
 -------
-如果同时满足⼀个单词/两个临近单词有3个辅⾳，t/d在中间/t/前⾯的辅⾳是清辅⾳；或/d/前⾯的辅⾳是浊辅⾳才可以省⾳： t/d直接消失 。   
+1. t/d直接消失
+如果同时满足⼀个单词/两个临近单词有3个辅⾳，t/d在中间/t/前⾯的辅⾳是清辅⾳；或/d/前⾯的辅⾳是浊辅⾳才可以省⾳ 。   
 textbook /tek**stb**ʊk/, last lesson /la:**st l**esn/    
 
+2. 直接省略掉/ə/和/ɪ/的⾳（消失了）    
+同时满⾜： /ə/和/ɪ/所在⾳节必须是⾮重读⾳节/ə/或/ɪ/ 后⾯是 /r/    
+history /ˈhɪst**ə**ri/ — /ˈhɪstri/     
+factory /ˈfækt**ə**ri/ — /ˈfæktri/    
+camera /ˈkæm**ə**rə/ - /ˈkæmrə/    
+desperate /ˈdesp**ə**rət/ - /ˈdesprət/    
+dietary /‘daɪət**ə**rɪ/ - /‘daɪətrɪ/     
+(special dietary requirement)     
