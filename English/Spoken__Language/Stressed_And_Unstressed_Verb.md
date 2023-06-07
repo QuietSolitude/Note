@@ -20,17 +20,17 @@
 
 Be动词弱读    
 -------------------
-|        |        |        |                 |
-| ------ | ------ | ------ | ----------------|    
-| am     | /æm/   |  /əm/  |      Am I late? |    
-are    /a:/     /ə/           You are right.    
-was    /wɒz/    /wəz, wz/     I was fine.     
-were   /wɜ:/    /wə/          We were there.    
-have   /hæv/    /həv, əv/     I have got to go.     
-had    /hæd/    /həd, əd/     She had been there.     
-do     /du:/    /də, du/      Do you like it?/ Do I go?     
-does   /dʌz/    /dəz/         Does she smoke?     
-been   /bi:n/   /bɪn/         She’s been ill.       
+|        |        |            |                             |
+| ------ | ------ | ---------- | --------------------------- |    
+| am     | /æm/   |  /əm/      |   Am I late?                |    
+| are    | /a:/   |  /ə/       |   You are right.            |     
+| was    | /wɒz/  |  /wəz, wz/ |   I was fine.               |   
+| were   | /wɜ:/  |  /wə/      |   We were there.            |    
+| have   | /hæv/  |  /həv, əv/ |   I have got to go.         |     
+| had    | /hæd/  |  /həd, əd/ |   She had been there.       |     
+| do     | /du:/  |  /də, du/  |   Do you like it?/ Do I go? |     
+| does   | /dʌz/  |  /dəz/     |   Does she smoke?           |     
+| been   | /bi:n/ |  /bɪn/     |   She’s been ill.           |
 Be动词在句尾、否定式、 强调的时候不能弱读。    
 
 句尾    
