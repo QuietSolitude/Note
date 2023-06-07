@@ -31,6 +31,7 @@ Be动词弱读
 | do     | /du:/  |  /də, du/  |   Do you like it?/ Do I go? |     
 | does   | /dʌz/  |  /dəz/     |   Does she smoke?           |     
 | been   | /bi:n/ |  /bɪn/     |   She’s been ill.           |
+
 Be动词在句尾、否定式、 强调的时候不能弱读。    
 
 句尾    
