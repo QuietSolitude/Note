@@ -20,7 +20,8 @@
 
 Be动词弱读    
 -------------------
-am     /æm/     /əm/          Am I late?     
+| ------ | ------ | ------ | ----------------|
+| am     | /æm/   |  /əm/  |      Am I late? |    
 are    /a:/     /ə/           You are right.    
 was    /wɒz/    /wəz, wz/     I was fine.     
 were   /wɜ:/    /wə/          We were there.    
