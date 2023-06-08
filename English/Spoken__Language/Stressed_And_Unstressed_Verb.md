@@ -57,4 +57,4 @@ Be动词在句尾、否定式、 强调的时候不能弱读。
     - It wasn't a cat.    
     - I thought it was a white one.      
 
-[失去爆破和省音](Unreleased_Plosive.md) -------- [口语主页](README.md)      
+[失去爆破和省音](Unreleased_Plosive.md) -------- [口语主页](README.md) ---------- [送气和不送气](Speak_Or_Sbeak.md)      
