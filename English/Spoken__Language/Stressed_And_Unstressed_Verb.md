@@ -34,12 +34,26 @@ Be动词弱读
 
 Be动词在句尾、否定式、 强调的时候不能弱读。    
 
-句尾    
+句尾  
+
   Does he have a pen?    
   Yes, he has.   
 
-否定式 don't, wasn't, isn't, aren't...    
+否定式   don't, wasn't, isn't, aren't...    
+      
   I don't know.    
   I wasn't there.    
 
-需要强调    
+需要强调     
+  A: Have you done your homework?    
+  B: Yes, I have.    
+  A: No, you haven't.     
+  B: I **have** done my homework.     
+
+练习：   
+  1. They were doing the homework .    
+    - They weren't doing the homewok.     
+  2. I saw a black cat yesterday.     
+    - It wasn't a cat.    
+    - I thought it was a white one.      
+
