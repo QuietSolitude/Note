@@ -8,4 +8,4 @@
   Get out of here.     Get︶out︶of here.     
   It’s up to you.    It’s︶up to you     
  
- 
+[失去爆破和省音](Unreleased_Plosive.md) ---------- [口语主页](README.md)
