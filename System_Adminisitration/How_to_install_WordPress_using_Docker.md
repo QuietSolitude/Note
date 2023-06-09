@@ -2,8 +2,14 @@
 
 使用docker架设一个服务器
 --------------------------
-`docker run -p ip:端口 ubuntu tail -f`
+`docker run -p 路由或者本机端口:容器端口 ubuntu tail -f`
 
+什么是端口映射
+-----------------
+端口映射是指服务器的一个端口外网访问不到，所以在路由器或者本机设置个端口，将服务器端口和路由器或者本机进行关联，    
+可以通过访问路由器的端口来访问这个服务器。    
+`docker run -p 8080:80 ubuntu tail -f`    
+docker会为容器提供个端口80，这个命令是将路由器或本机端口和容器端口进行关联。     
 
 什么是WordPress
 ------------------------
@@ -67,7 +73,7 @@ mariaDB是一个数据库。
 `service mariadb start`    
 
 启动后要登录数据库    
-`mysql -u root -p Password`    
+`mysql -uroot -pPassword`    
 
 创建数据库wordress_db     
 `CREATE DATABASE wordpress_db;`    
@@ -80,7 +86,7 @@ mariaDB是一个数据库。
 `FLUSH PRIVILEGES;`    
 
 设置完之后退出    
-` exit`    
+` exit；`    
 
 安装完以上内容就需要为WordPress创建Nginx配置文件    
 --------------------------------------------
@@ -193,4 +199,4 @@ define( 'NONCE_SALT', 'put your unique phrase here' );
 ```
 为了保证Wordpress网站的安全，在数据库选项配置完后，通过[生成安全密匙](https://api.wordpress.org/secret-key/1.1/salt/)并将内容复制粘贴在配置中    
 
-安装完成后在浏览器访问域名。    
+安装完成后在浏览器访问 localhost:8080。    
