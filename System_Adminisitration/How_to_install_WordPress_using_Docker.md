@@ -1,5 +1,10 @@
 # 如何在docker容器里安装wordpress
 
+使用docker架设一个服务器
+--------------------------
+`docker run -p ip:端口 ubuntu tail -f`
+
+
 什么是WordPress
 ------------------------
 WordPress是一个以PHP和MySQL为平台的自由开源的博客软件和内容管理系统。    
@@ -19,9 +24,9 @@ WordPress依赖的安装
 PHP环境配置好后，安装PHP7.4：    
 `apt -y install php7.4`    
 检查是否安装成功和查看PHP的版本
-`PHP -v`
+`php -v`
 安装一些常用的模块
-`pt-get install -y php7.4-cli php7.4-json php7.4-common php7.4-mysql php7.4-zip php7.4-gd php7.4-mbstring php7.4-curl php7.4-xml php7.4-bcmath`    
+`apt-get install -y php7.4-cli php7.4-json php7.4-common php7.4-mysql php7.4-zip php7.4-gd php7.4-mbstring php7.4-curl php7.4-xml php7.4-bcmath`    
 
 由于nginx是通过fastcgi连接PHP的,在run/php文件夹里没有的要安装    
 `apt install php7.4-fpm`     
@@ -65,8 +70,8 @@ mariaDB是一个数据库。
 `CREATE DATABASE wordpress_db;`
 
 对用户进行wordpress_db数据库进行授权，all表示所有操作     
-以下命令的用户是wpuser password是密码需要设置。  
-`mGRANT ALL ON wordpress_db.* TO 'wpuser'@'localhost' IDENTIFIED BY 'Password' WITH GRANT OPTION; `    
+以下命令的用户是wpuser password是密码需要设置，没有这个用户会创建一个。  
+`GRANT ALL ON wordpress_db.* TO 'wpuser'@'localhost' IDENTIFIED BY 'Password' WITH GRANT OPTION; `    
 对用户数据和权限有修改后，不想重启数据库让修改的内容直接生效可以用以下命令    
 `FLUSH PRIVILEGES;`
 设置完之后退出
@@ -125,7 +130,9 @@ server {
 
 最后下载和配置 WordPress
 ------------------------------
-先cd到wordpress文件夹里    
+先创建wordpress文件夹    
+`mkdir /var/www/html/wordpress`
+在cd到wordpress文件夹里    
 `cd /var/www/html/wordpress `
 下载WordPress    
 `wget https://cn.wordpress.org/latest-zh_CN.tar.gz`
@@ -135,6 +142,7 @@ server {
 `mv wordpress/* . `
 删除解压文件
 `rm -rf wordpress latest-zh_CN.tar.gz`
+
 将更改文件所有权和应用权限给Wordpress的所有文件
 
 先`cd /var/www/html`    
