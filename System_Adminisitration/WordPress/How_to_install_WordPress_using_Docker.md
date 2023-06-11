@@ -6,6 +6,7 @@
 
 什么是端口映射
 -----------------
+端口是跟服务器端程序有关的。    
 端口映射是指服务器的一个端口外网访问不到，所以在路由器或者本机设置个端口，将服务器端口和路由器或者本机进行关联，    
 可以通过访问路由器的端口来访问这个服务器。    
 `docker run -p 8080:80 ubuntu tail -f`    
@@ -28,14 +29,14 @@ WordPress依赖的安装
 安装存储库ppa:ondrej/php，它将为您提供所有版本的 PHP：     
 `add-apt-repository ppa:ondrej/php`    
 PHP环境配置好后，安装PHP7.4：    
-`apt -y install php7.4`    
+`apt -y install php8.1`    
 检查是否安装成功和查看PHP的版本
 `php -v`
 安装一些常用的模块
-`apt-get install -y php7.4-cli php7.4-json php7.4-common php7.4-mysql php7.4-zip php7.4-gd php7.4-mbstring php7.4-curl php7.4-xml php7.4-bcmath`    
+`apt install php8.1-PDO php8.1-Mbstring php8.1-Tokenizer php8.1-GD php8.1-XML php8.1-Ctype php8.1-JSON php8.1-fileinfo php8.1-zip php8.1-mysql`
 
 由于nginx是通过fastcgi连接PHP的,在run/php文件夹里没有的要安装    
-`apt install php7.4-fpm`     
+`apt install php8.1-fpm`     
 
 什么是Nginx
 --------------------------
@@ -110,7 +111,7 @@ server {
          
             location ~ \.php$ {
             include snippets/fastcgi-php.conf;                            
-                 fastcgi_pass unix:/run/php/php7.4-fpm.sock;             
+                 fastcgi_pass unix:/run/php/php8.1-fpm.sock;             
             }              
 
             location ~ /\.ht {                            
