@@ -3,7 +3,7 @@
 
 Gin的依赖
 -------------
- Gin需要使用go语言来做脚本，所以需要安装go的sdk，按[go的SDK安装](System_Adminisitration/Go/Go_Install.md)  
+ Gin需要使用go语言来做脚本，所以需要安装go的sdk，按[go的SDK安装](System_Adminisitration/Go/Go_Basic_Knowledge.md)  
 
 Gin的基础
 ------------------
