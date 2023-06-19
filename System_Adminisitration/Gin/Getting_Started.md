@@ -3,8 +3,12 @@
 
 Gin的依赖
 -------------
- Gin需要使用go语言来做脚本，所以需要安装go的sdk，按[go的SDK安装](../Go/Go_Basic_Knowledge.md)  
- 
+ Gin需要使用go语言来做脚本，所以需要安装go的sdk，按[go的SDK安装](../Go/Go_Basic_Knowledge.md)    
+
+ 使用`go install github.com/gin-gonic/gin@latest`来安装Gin    
+ 在工程里要先使用`go mod init 文件夹名` 来创建一个go mod的依赖仓库。会多了个go.mod文件，存放程序依赖信息。     
+ 然后在import里写上`"github.com/gin-gonic/gin"` 来导入Gin的包。    
+ 并运行`go mod tidy`引用项目需要的依赖增加到go.mod文件里，并清除go.mod文件里项目不需要的依赖。    
 
 Gin的基础
 ------------------
