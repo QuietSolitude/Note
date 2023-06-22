@@ -4,3 +4,4 @@
 #### Linux的结构
 
 * [linux常用命令](Linux_Order.md)
+* [Linux的文件与权限](Linux_File.md)
