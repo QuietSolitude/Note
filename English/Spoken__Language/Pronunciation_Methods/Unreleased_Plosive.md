@@ -38,4 +38,4 @@ desperate /ˈdesp**ə**rət/ - /ˈdesprət/
 dietary /‘daɪət**ə**rɪ/ - /‘daɪətrɪ/     
 (special dietary requirement)     
 
- [连读 Consonant Vowel](Consonant_Vowel.md) ---------- [口语主页](README.md) ---------- [重弱读之be动词](Stressed_And_Unstressed_Verb.md)    
+ [连读 Consonant Vowel](Consonant_Vowel.md) ---------- [口语主页](../README.md) ---------- [重弱读之be动词](Stressed_And_Unstressed_Verb.md)    
