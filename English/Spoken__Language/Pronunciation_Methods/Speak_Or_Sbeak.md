@@ -15,4 +15,4 @@ colour /ˈkʌlə/
 /s/ + 任意/p, t, k/ + 任意/w, j, l, r/ + 元音
 eg. splash  square    
 
-[重弱读之be动词] ------ [口语主页](../README.md)
+[重弱读之be动词](Stressed_And_Unstressed_Verb.md) -------- [口语主页](../README.md)
