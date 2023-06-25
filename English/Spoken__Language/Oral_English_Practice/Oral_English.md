@@ -1,4 +1,4 @@
 # 口语练习列表
-1. [tea time](Oral_English_Practice/README.md)    
+1. [tea time](Tea_Time.md)    
 
 [口语主页](../README.md)
