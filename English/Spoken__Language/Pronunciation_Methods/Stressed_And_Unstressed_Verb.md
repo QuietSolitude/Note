@@ -55,6 +55,8 @@ Be动词在句尾、否定式、 强调的时候不能弱读。
     - They weren't doing the homewok.     
   2. I saw a black cat yesterday.     
     - It wasn't a cat.    
-    - I thought it was a white one.      
+    - I thought it was a white one.       
+
+[重弱读之情态动词](Modal_Verbs_In_Heavy_And_Weak_Reading.md)
 
 [失去爆破和省音](Unreleased_Plosive.md) -------- [口语主页](../README.md) ---------- [送气和不送气](Speak_Or_Sbeak.md)      
