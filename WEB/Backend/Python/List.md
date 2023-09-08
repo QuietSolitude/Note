@@ -7,7 +7,7 @@
 
 列表相关的函数     
 -------------------------
-- **append(元素)**函数是将元素添加在列表末尾。    
+- append(元素)函数是将元素添加在列表末尾。    
 ```python
 motorcycles = ['honda', 'yamaha', 'suzuki']
 
@@ -15,7 +15,7 @@ motorcycles.append('ducati')
 print(motorcycles)
 ```  
 
-- **insert(index，元素)**函数是将元素插入在列表中。
+- insert(index，元素)函数是将元素插入在列表中。
 ```python
 motorcycles = ['honda', 'yamada', 'suzuki']
 
@@ -23,7 +23,7 @@ motorcycles.insert(0, 'Ruro')
 print(motorcycles)
 ```
 
-- **pop()**函数是删除列表末尾中的元素，并返回该元素。    
+- pop()函数是删除列表末尾中的元素，并返回该元素。    
 ```python
 motorcycles = ['honda', 'yamaha', 'suzuki']
 
@@ -31,14 +31,14 @@ popped_motorcycles = motorcycles.pop()
 print(motorcycles)
 print(popped_motorcycles)
 ```
-- **pop(index)**函数是根据index来删除列表中的元素，并返回该元素。   
+- pop(index)函数是根据index来删除列表中的元素，并返回该元素。   
 ```python
 motorcycles = ['honda', 'yamaha', 'suzuki']
 first_owned = motorcycles.pop(1)
 print(f"The first motorcycles I owned was a {first_owned.title()}.")
 ```
 
-- **remove(元素)**函数是在不知道元素索引的情况下，根据元素的值来删除元素，不返回元素,如果有多个相同元素，只会删除索引靠前的ige。    
+- remove(元素)函数是在不知道元素索引的情况下，根据元素的值来删除元素，不返回元素,如果有多个相同元素，只会删除索引靠前的ige。    
 ```python
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(motorcycles)
