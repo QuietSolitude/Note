@@ -27,4 +27,4 @@
      ![inReview](images/In_Review.png)
   12. 检查无误之后，将ticket移动到Done里。
 
-  [返回GitHub/Git主页](../README.md) ------ [返回笔记主页](../../README.md)
+ [Github](github.md) -- [Git and GitHub](../git_and_github.md)

@@ -4,4 +4,4 @@
 Bash常用的命令     
 -------------------------------------------------------
    
- 
+ [Computer Notes](../computer_notes.md) -- [Linux](linux.md)

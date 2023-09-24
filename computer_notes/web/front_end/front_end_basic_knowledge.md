@@ -35,4 +35,4 @@ WEB项目应该要使用的结构
   - scripts文件夹：这个文件存放用于向网站添加交互功能的JavaScript代码。    
 
 
-[返回Web笔记主页](../README.md) -------- [返回笔记主页](../../README.md)
+[Front End](front_end.md) -- [WEB](../web.md)

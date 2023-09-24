@@ -32,4 +32,4 @@ linux的文件属性
       - 0640的0是指文件，1是指文件夹。    
       
 
-    
+[Computer Note](../computer_notes.md) -- [Linux](linux.md)

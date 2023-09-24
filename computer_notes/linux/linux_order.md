@@ -220,3 +220,4 @@ ping命令
   - -i 每次间隔时间（秒）     
   - -W 最长等待时间（秒）     
 
+[Computer Notes](../computer_notes.md) -- [Linux](linux.md)
