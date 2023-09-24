@@ -48,3 +48,5 @@ Engine是一个容器对象，是整个框架的基础。
   panc是指宕机。    
 Get是HTTP协议中的4个请求方法之一，用来获取资源。    
 gin.Context是允许我们在中间件之间，传递变量，管理流程，验证请求的JSON并呈现JSON响应。    
+
+[System Adminisitration](../system_adminisitration.md) -- [Gin](gin.md)

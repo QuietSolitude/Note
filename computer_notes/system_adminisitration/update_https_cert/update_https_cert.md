@@ -52,4 +52,4 @@ all:
 inventory = ./inventory.yml
 host_key_checking = false
 ```
-[返回运维主页](../README.md) ------ [返回笔记主页](../../README.md)
+[System Adminisitration](../system_adminisitration.md)

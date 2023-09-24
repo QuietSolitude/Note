@@ -44,3 +44,5 @@ Printf函数
 -------------------------------------
 如果用户指定了格式化变量或多个格式化变量，那么printf函数将顺序把它们替换成响应的值。    
 `fmt.Printf("%-15v $%4v\n", "SpaceX", 94)`    
+
+[System Adminisitration](../system_adminisitration.md) -- [go](go.md)

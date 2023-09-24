@@ -14,3 +14,5 @@ Ansible需要的依赖
 安装Ansible     
 ------------------------------
   `pip install --user ansible`
+
+[System Adminisitration](../system_adminisitration.md) -- [Ansible](ansible.md)

@@ -201,3 +201,5 @@ define( 'NONCE_SALT', 'put your unique phrase here' );
 为了保证Wordpress网站的安全，在数据库选项配置完后，通过[生成安全密匙](https://api.wordpress.org/secret-key/1.1/salt/)并将内容复制粘贴在配置中    
 
 安装完成后在浏览器访问 localhost:8080。    
+
+[System Adminisitration](../system_adminisitration.md)

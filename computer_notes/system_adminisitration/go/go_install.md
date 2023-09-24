@@ -15,3 +15,5 @@ sudo apt install golang-go
 ` go env -w GO111MODULE=on`    
 
 modules是管理库的依赖。
+
+[System Adminisitration](../system_adminisitration.md) -- [go](go.md)
