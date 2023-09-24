@@ -40,4 +40,4 @@ shall （與 I 或 we 連用，表示建議） （表示某事肯定或必須發
 3. Can you hear me? I CAN hear you.
 4. You must leave. 
 
-[返回英语主页](../../english.md) --- [返回发音技巧](pronunciation_methods.md) --- [返回英语口语](../oral_english.md)     
+[English](../../english.md) --- [Pronunciation Mehtods](pronunciation_methods.md) --- [Oral English](../oral_english.md)     

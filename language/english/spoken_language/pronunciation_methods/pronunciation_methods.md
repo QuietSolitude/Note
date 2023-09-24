@@ -7,4 +7,4 @@
  6. [重弱读之情态动词](modal_verbs_in_heavy_and_weak_reading.md)
 
 
-[English主页](../../english.md) --- [Language主页](../../../language.md) --- [英语口语](../oral_english.md)        
+[English](../../english.md) --- [Language](../../../language.md) --- [Oral English](../oral_english.md)        
