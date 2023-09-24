@@ -1,1 +1,1 @@
-# 学习计算机相关笔记
+# Learning computer notes

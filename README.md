@@ -2,6 +2,7 @@
 这是记录我学习的一个笔记。
 
 - [Language](language/language.md)
+- [Computer](computer_notes/computer_notes.md)
 * [计算机运维](System_Adminisitration/README.md)
 * [linux](Linux/README.md)
 * [WEB](WEB/README.md)    

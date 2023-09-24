@@ -1,4 +1,4 @@
-# 学习语言的笔记
+# Learning language notes
 
 - [English](english/english.md)
 
