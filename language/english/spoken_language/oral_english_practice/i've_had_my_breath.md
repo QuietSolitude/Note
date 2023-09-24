@@ -22,4 +22,4 @@ the是一个英语中最常用的定冠词，它的发音有两种，分别是/�
 一般情况下，如果the后面的单词的音标是以辅音音素开头的，the读作/ðə/，例如the book, the car, the dog等。
 如果要强调the后面的单词，或者表示特指某个事物，the也读作/ðiː/，并且语调会提高，例如This is the book I want.这就是我想要的书。   
 
-[返回英语主页](../../ENGLISH.md) --- [返回口语练习](ORAL_ENGLISH_PRACTICE.md) --- [返回英语口语](../Oral_English_Practice.md)        
+[返回英语主页](../../ENGLISH.md) --- [返回口语练习](oral_english_practice.md) --- [返回英语口语](../Oral_English_Practice.md)        
