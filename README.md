@@ -1,6 +1,7 @@
 # Note
-my notes
+这是记录我学习的一个笔记。
 
+- [Language](Language/README.md)
 * [English](English/README.md)
 * [计算机运维](System_Adminisitration/README.md)
 * [linux](Linux/README.md)
