@@ -13,4 +13,4 @@ Walks the path of the Guardian Goddess Luana.
 Welcomoe to the Great Archives, adventurer.    
 I suppose curiosity brought you here.    
 
-[GameEnglish主页](../README.md) --- [English主页](../../README.md)
+[GameEnglish主页](../GAME_ENGLISH.md) --- [English主页](../../ENGLISH.md) --- [返回Language主页](../../../LANGUAGE.md)     

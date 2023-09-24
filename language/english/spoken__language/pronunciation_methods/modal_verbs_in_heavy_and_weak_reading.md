@@ -39,3 +39,5 @@ shall （與 I 或 we 連用，表示建議） （表示某事肯定或必須發
 2. I shouldn’t write it. 
 3. Can you hear me? I CAN hear you.
 4. You must leave. 
+
+[返回英语主页](../../ENGLISH.md) --- [返回发音技巧](PRONUNCIATION_METHODS.md) --- [返回英语口语](../Oral_English_Practice.md)  

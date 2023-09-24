@@ -1,6 +1,6 @@
 # English
-* [口语](Spoken__Language/README.md)
-* [游戏英语](Game_English/README.md)
+* [口语](spoken__language/Oral_English_Practice.md)
+* [游戏英语](game_english/GAME_ENGLISH.md)
 
 
---- [笔记主页](../../README.md) --- [返回Language主页](../README.md)
+--- [笔记主页](../../README.md) --- [返回Language主页](../LANGUAGE.md)
