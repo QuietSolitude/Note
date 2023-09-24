@@ -1,7 +1,7 @@
 # Note
 这是记录我学习的一个笔记。
 
-- [Language](language/LANGUAGE.md)
+- [Language](language/language.md)
 * [计算机运维](System_Adminisitration/README.md)
 * [linux](Linux/README.md)
 * [WEB](WEB/README.md)    
