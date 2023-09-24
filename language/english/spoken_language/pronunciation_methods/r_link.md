@@ -10,4 +10,4 @@
  /a: ɔ: ə ɜ: ɪə eə ʊə/ 结尾（intrusive R ）    
  saw it /sɔ:rɪt/    
 
-[返回英语主页](../../ENGLISH.md) --- [返回发音技巧](PRONUNCIATION_METHODS.md) --- [返回英语口语](../Oral_English_Practice.md)   
+[返回英语主页](../../english.md) --- [返回发音技巧](pronunciation_methods.md) --- [返回英语口语](../oral_english.md)    
