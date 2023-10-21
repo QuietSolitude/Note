@@ -3,5 +3,6 @@
 
 - [数据库基本概念](getting_started.md)
 - [关系数据库](relational_database.md)
+- [数据库设计](database_design.md)
 
 [Database](../database.md)
