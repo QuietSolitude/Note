@@ -78,7 +78,19 @@
        - SELECT 关系名 WHERE 条件。 其中条件是由常数、属性名或列名、比较操作符以及逻辑操作服组成的条件表达式。
          - SELECT R1 WHERE 性别=“男”    
       ![选择](images/xuanze.png)    
-     - 投影（PROJECTION）从指定的关系中选取指定的若干属性值组成一个新关系。
+     - 投影（PROJECTION）从指定的关系中选取指定的若干属性值组成一个新关系。这个新关系中不包含重复元组。
        - PROJECTION 关系名（属性名1，属性名2，...，属性名n）     
          - PROJECTION R1（学号，宿舍）
-      ![投影](images/touying.png)
+      ![投影](images/touying.png)    
+     - 连接（JOIN）是选取两个指定关系中的属性满足给定条件的元组连接在一起来组成一个新关系。
+       - 连接的等值连接和自然连接最常用。    
+         - 等值连接是条件“=”的连接运算符称为等值连接，从关系笛卡尔积选取A、B属性相等的那些元组。
+         - 自然连接是一种特殊的等值连接。会去掉重复的属性列。    
+      ![一般连接](images/yibanlianjie.png)     
+      ![等值连接](images/dengzhilianjie.png)
+      ![自然连接](images/自然连接.png)    
+     - 除（DIVISION）
+      ![除](images/除.png)    
+      ![除举例](images/除举例.png)    
+      ![除分析](images/除分析.png)    
+      ![除分析2](images/除分析2.png)    
