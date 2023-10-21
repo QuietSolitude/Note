@@ -64,9 +64,21 @@
    操作三大要素：操作对象，操作符，操作结果。
    ![关系代数运算符](images/关系代数运算符.png)
 
-   - 传统的集合运算
+   1. 传统的集合运算
      - 并（UNION）是指关系R1或者R2的所有不同元组所组成，记为R3=R1UR2。R1和R2的属性个数相同，且相应属性分别有相同的值域。        
      ![并运算](images/并.png)    
      - 差（DIFFERENCE）R1和R2的差运算产生一个新关系R3.R3是由属于关系R1，但不属于R2的元组组成，记为R3=R1-R2.进行差运算的两个关系必须具有相同的属性个数，且相应属性具体相同的值域。    
      ![差运算符](images/cha.png)    
-     - 交（INTERSECTION）
+     - 交（INTERSECTION）R1和R2相交产生一个新关系R3，R3是既属于关系R1，同时又属于R2的元组组成。R3=R1ՈR2。    
+     ![交运算符](images/jiao.png)    
+     - 笛卡尔积（CARTESIAN PRODUCT）R1为m元关系，R2为n元关系，R1和R2的笛卡尔积产生一个新关系R3，记作R1XR2。R3是由R1和R2的所有元组链接而成的。    
+     ![笛卡尔积](images/dikaerji.png)    
+   2. 专门的关系运算
+     - 选择（Select）是指定关系中选取满足给定条件的若干元组组成一个新关系。
+       - SELECT 关系名 WHERE 条件。 其中条件是由常数、属性名或列名、比较操作符以及逻辑操作服组成的条件表达式。
+         - SELECT R1 WHERE 性别=“男”    
+      ![选择](images/xuanze.png)    
+     - 投影（PROJECTION）从指定的关系中选取指定的若干属性值组成一个新关系。
+       - PROJECTION 关系名（属性名1，属性名2，...，属性名n）     
+         - PROJECTION R1（学号，宿舍）
+      ![投影](images/touying.png)
