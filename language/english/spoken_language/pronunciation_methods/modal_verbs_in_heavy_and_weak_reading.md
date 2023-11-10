@@ -6,7 +6,7 @@
 弱读：虚词（介词、冠词、代词、连词等be动词、助动词、情态动词等）     
 - Can you **sell** my **car**?
 
-e.g. You can **sit** **here** and ****wait** for the **mee**ting to **start**.    
+e.g. You can **sit** **here** and **wait** for the **mee**ting to **start**.    
 you /ju:/ —> /jə/(后面的单词是辅音法弱读，元音就不弱读) can /kæn/—> /kən/ and /ænd/—> /ənd     
 to /tu:/—> /tə/ for /fɔ:/—> /fə/     
 
