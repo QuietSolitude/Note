@@ -21,6 +21,49 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
 | could     | /kʊd/        | /kəd/       | He could finish it       |
 | will      | /wɪl/        | /əl/        | I will take it.          |
 
+- Can的用法:（Can不能跟其他情態動詞連用）
+  情態動詞can有一定的詞義，但不能獨立存在，也就是說它不能單獨作謂語，必須與動詞原形一起構成謂語。情態動詞can沒有人稱和數的變化。    
+  - 表示現在的能力（表示會不會做某件事情）
+    can的否定形式：cannot/can't    
+    - I can play basketball. 我會打籃球.
+    - He can't ride a bike. = He cannot ride a bike. 他不會騎單車。
+    - They can speak Japanese. 他們會講日文。
+
+  - 表示過去的能力，用can的過去形式could 
+    肯定用：could 否定用 couldn't     
+    - He could dance when he was 3 years old.  黨他3嵗的時候，他會跳舞。
+
+  - can與be able to do sth 區別
+    be able to和can都可以表示能夠做某事，但有以下區別    
+    - 時態區別
+      can用於一般現在時，一般過去時用could，不能再用於其他時態。be able to可用于各種時態。
+      - He can dance. 他會跳舞。
+      - He could dance when he was a boy. 當他是個男孩子的時候，他能夠跳舞。
+      - he is able to dance. 
+      - He was able to dance when he was a boy.
+      - He will be able to dance.
+      - He has been able to dance.    
+            
+
+  - 表示請求或者許可
+    - Can you give me the book? 請把書給我，好嗎？
+    - Can I borrow your bike? 我可以借你的單車嗎？
+      - Yes,you can.
+      - No, you can't
+
+    - 若要比較委婉地請求，常用Could/Could you ... ?
+      - could在此不是過去式，表示比較委婉地語氣，回答時用can
+      - Could I borrow your bike?
+        - Yes, you can.
+        - No, you can't.
+  - 表示“推測”
+    用“can't be”表示“不可能”，表示對現在或將來推測，體現説話人非常肯定某事是不可能發生的：    
+    - The price is too high. That can't be right 價格太高。那價格不可能是對的。    
+  
+  - can + 動詞原形， can不單獨用
+    - I can hear you. 我能夠聽見你（的聲音）。
+
+
 - shall （與 I 或 we 連用，表示建議） （表示某事肯定或必須發生，或表示決心）       
 
 - would的用法：（would后面总是跟着动词的原形）
