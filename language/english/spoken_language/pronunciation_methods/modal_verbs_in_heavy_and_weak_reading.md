@@ -43,7 +43,15 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
       - He was able to dance when he was a boy.
       - He will be able to dance.
       - He has been able to dance.    
-            
+    
+    - 用be able to不用could的情況
+      若表示過去已經完成某次具體動作，要用be able to,不用could    
+      - Although he was hurt, he was able to run fast. 雖然他受傷了，但是他還能跑地快（他已經跑完了）
+      - Although she was weak, she was able to speak. 雖然她很脆弱，但是她能説話。（已經説完了）
+      - Luckily,the plane was able to land safely. 幸運的是，飛機能夠安全着陸。（飛機已經安全着陸）
+    
+    - can除了表示能力，還可表示推測等，而be able to不行
+      - Andy is on holiday. He can't be at work. 安迪在度假，他不可能在上班。
 
   - 表示請求或者許可
     - Can you give me the book? 請把書給我，好嗎？
