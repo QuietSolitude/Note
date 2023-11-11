@@ -122,6 +122,6 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
 4. You must leave. 
 
 - [x] A
-- [] B
+- [ ] B
 
 [English](../../english.md) --- [Pronunciation Mehtods](pronunciation_methods.md) --- [Oral English](../oral_english.md)     
