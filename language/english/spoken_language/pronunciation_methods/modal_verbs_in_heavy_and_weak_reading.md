@@ -121,7 +121,4 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
 3. Can you hear me? I CAN hear you.
 4. You must leave. 
 
-- [x] A
-- [ ] B
-
 [English](../../english.md) --- [Pronunciation Mehtods](pronunciation_methods.md) --- [Oral English](../oral_english.md)     
