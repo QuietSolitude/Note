@@ -85,7 +85,7 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
     - The weather should be fine tomorrow. 明天天氣應該很好。
   
   - 本應，本當（表示與事實相反）
-    - It should be sunny today, according the weather forecase. 根據天氣預報，今天天氣應該晴朗才是。（其實今天天氣不好）
+    - It should be sunny today, according the weather forecast. 根據天氣預報，今天天氣應該晴朗才是。（其實今天天氣不好）
     - You should have closed the windows before you leave the room. 你離開房間之前，應該把所有的窗戶關掉才是。（其實，你沒有關窗）
   
   - 用於表達建議、命令、請求、決定、重要性等詞後面。
@@ -94,7 +94,11 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
   - 作为shall的过去式，表达过去将来。
     - “I said that I should be glad to help.”（我说过我会很乐意帮忙。）
 
-- shall （與 I 或 we 連用，表示建議） （表示某事肯定或必須發生，或表示決心）       
+- shall的用法
+  - （與 I 或 we 連用，表示建議） （表示某事肯定或必須發生，或表示決心）
+    - Shall we go out for dinner tonight? 我们今晚出去吃饭好吗？
+  - 表示将来：用于第一人称(I, we)代替“will”。
+    - I shall be late 我会迟到。    
 
 - would的用法：（would后面总是跟着动词的原形）
   - 表示条件语气：我们用“would”来谈论假设或不真实的情况，通常在if-clauses中。例如：If I had a million dollars, I would buy a house.(如果我有一百万美元，我会买一栋房子。)
