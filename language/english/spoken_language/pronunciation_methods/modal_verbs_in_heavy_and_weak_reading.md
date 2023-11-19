@@ -71,6 +71,28 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
   - can + 動詞原形， can不單獨用
     - I can hear you. 我能夠聽見你（的聲音）。
 
+- should用法
+  - 用於矯正別人的錯誤，批評錯誤行爲。意思系應該，應當。
+    - You shouldn't be late, for this meeting is very important. 你不該遲到的，這個會議非常重要。
+    - You should have been faster. 你應該快速一點。
+  
+  - 提出或尋求建議，意思是該，可以。
+    - Should I call him first and apologize? 我是不是應該先打電話給他道歉？
+    - If I were you, I should carry out the project whatever others say. 如果我是你的話，我就會完成這個工程，不管別人說什麽。
+
+  - 表示預期，期待某事會發生或成真
+    - They should have finished their work by thia Friday. 周五它們應該完成他們的工作了。
+    - The weather should be fine tomorrow. 明天天氣應該很好。
+  
+  - 本應，本當（表示與事實相反）
+    - It should be sunny today, according the weather forecase. 根據天氣預報，今天天氣應該晴朗才是。（其實今天天氣不好）
+    - You should have closed the windows before you leave the room. 你離開房間之前，應該把所有的窗戶關掉才是。（其實，你沒有關窗）
+  
+  - 用於表達建議、命令、請求、決定、重要性等詞後面。
+    - It is necessary that we should follow the doctor’s advice. （我们应该遵循医生的建议。）
+  
+  - 作为shall的过去式，表达过去将来。
+    - “I said that I should be glad to help.”（我说过我会很乐意帮忙。）
 
 - shall （與 I 或 we 連用，表示建議） （表示某事肯定或必須發生，或表示決心）       
 
