@@ -20,4 +20,4 @@ Lucy has seen him before.
 Lucy **has** seen him before.     
 Lucy has seen **him** before.     
 
-[English](../../english.md) --- [Language](../../../language.md) --- [Oral English](../oral_english.md)      
+[English](../../english.md) --- [Pronunciation Mehtods](pronunciation_methods.md) --- [Oral English](../oral_english.md)         
