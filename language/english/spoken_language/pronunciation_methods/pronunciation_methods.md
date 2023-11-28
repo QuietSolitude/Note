@@ -5,6 +5,8 @@
  4. [送气和不送气](speak_or_sbeak.md)
  5. [R连读](r_link.md)
  6. [重弱读之情态动词](modal_verbs_in_heavy_and_weak_reading.md)
+ 7. [連讀同化](continuous__reading_assimilation.md)
+ 8. [代詞重弱讀](heavy_weak_pronoun.md)
 
 
 [English](../../english.md) --- [Language](../../../language.md) --- [Oral English](../oral_english.md)        
