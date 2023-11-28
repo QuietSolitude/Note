@@ -15,4 +15,6 @@ bless you
 not yet     
 special /spesjəl/    
 Tuesday /ˈtju:zdeɪ/    
-student /ˈstju:dnt/    
+student /ˈstju:dnt/       
+
+[English](../../english.md) --- [Language](../../../language.md) --- [Oral English](../oral_english.md)      
