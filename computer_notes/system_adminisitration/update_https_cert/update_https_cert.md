@@ -3,7 +3,8 @@
 
 更新证书    
 ---------------------------
-`certbot renew //更新证书`    
+`certbot renew //更新证书`     
+`systemctl restart nginx //然后重启nginx服务器` 
 `certbot renew --dry-run //--dry-run测试但不真的运行。`    
 
 使用ansible来更新证书    
