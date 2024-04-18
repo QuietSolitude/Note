@@ -37,6 +37,4 @@ camera /ˈkæm**ə**rə/ - /ˈkæmrə/
 desperate /ˈdesp**ə**rət/ - /ˈdesprət/    
 dietary /‘daɪət**ə**rɪ/ - /‘daɪətrɪ/     
 (special dietary requirement)     
-
-
-[English](../../english.md) --- [Pronunciation Methods](pronunciation_methods.md) --- [Oral English](../oral_english.md)   
+ 

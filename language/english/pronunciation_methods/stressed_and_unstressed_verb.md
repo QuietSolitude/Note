@@ -56,5 +56,4 @@ Be动词在句尾、否定式、 强调的时候不能弱读。
   2. I saw a black cat yesterday.     
     - It wasn't a cat.    
     - I thought it was a white one.       
-
-[English](../../english.md) --- [Pronunciation Methods](pronunciation_methods.md) --- [Oral English](../oral_english.md)   
+ 

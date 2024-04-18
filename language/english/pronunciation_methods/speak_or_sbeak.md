@@ -15,4 +15,4 @@ colour /ˈkʌlə/
 /s/ + 任意/p, t, k/ + 任意/w, j, l, r/ + 元音
 eg. splash  square    
 
-[English](../../english.md) --- [Pronunciation Methods](pronunciation_methods.md) --- [Oral English](../oral_english.md)   
+  

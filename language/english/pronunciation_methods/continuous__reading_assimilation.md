@@ -16,5 +16,4 @@ not yet
 special /spesjəl/    
 Tuesday /ˈtju:zdeɪ/    
 student /ˈstju:dnt/       
-
-[English](../../english.md) --- [Pronunciation Mehtods](pronunciation_methods.md) --- [Oral English](../oral_english.md)        
+     

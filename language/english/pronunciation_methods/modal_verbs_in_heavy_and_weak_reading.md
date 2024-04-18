@@ -146,5 +146,4 @@ to /tu:/—> /tə/ for /fɔ:/—> /fə/
 2. I shouldn’t write it. 
 3. Can you hear me? I CAN hear you.
 4. You must leave. 
-
-[English](../../english.md) --- [Pronunciation Mehtods](pronunciation_methods.md) --- [Oral English](../oral_english.md)     
+    

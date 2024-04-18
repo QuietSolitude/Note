@@ -9,5 +9,4 @@
  第⼀个单词拼写⾥没有“r”或“re”，但发⾳⾥是    
  /a: ɔ: ə ɜ: ɪə eə ʊə/ 结尾（intrusive R ）    
  saw it /sɔ:rɪt/    
-
-[English](../../english.md) --- [Pronunciation Methods](pronunciation_methods.md) --- [Oral English](../oral_english.md)    
+   

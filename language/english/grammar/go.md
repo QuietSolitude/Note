@@ -10,5 +10,3 @@ do (do, does, did) 的 3 種用法：
 
 3. 用於强調語氣
    - I do love you. 我很愛你.
-
-[english](../english.md) ------ [grammar](grammar.md)  

@@ -16,6 +16,3 @@ been是be動詞的過去分詞。
 4. There is, There are 是「有」的意思。
    - There were once dinosaurs on Earth. 曾經有恐龍存在地球上。
    - There is a girl in your office. 有個女生在你的辦公室。
-
-
-[english](../english.md) ------ [grammar](grammar.md) 

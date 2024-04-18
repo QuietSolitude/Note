@@ -9,4 +9,4 @@
  8. [代詞重弱讀](heavy_weak_pronoun.md)
 
 
-[English](../../english.md) --- [Language](../../../language.md) --- [Oral English](../oral_english.md)        
+[return English Note](../README.md)       
