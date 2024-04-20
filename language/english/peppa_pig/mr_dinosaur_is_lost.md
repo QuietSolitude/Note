@@ -20,3 +20,60 @@ George: Dinosaur!
 Narrator： At(↓) bath time, George shares his(stop) bath with Mr Dinosaur.    
 *hint*:    
 - with是一个介词，用来表示一种共享或者陪伴的状态。
+George: Grrr!    
+Mummy Pig: Good night,Peppa.    
+Peppa: Good night, Mummy.     
+Mummy Pig: Good night,George.    
+Mummy Pig: And(↓) good night,Mr Dinosaur.     
+George: Grrr!    
+Narrator: When George goes to(↓) bed, Mr Dinosaur is tucked‿up with him.    
+Narrator: George's favourite game(stop) is throwing Mr Dinosaur(stop) up‿in the air...       
+George: Whee!
+Narrator: ...and(stop) catching him(↓) when he(↓) falls back down.      
+George: Whee!    
+Narrator: Peppa and(↓) Daddy Pig are(↓) playing draughts.     
+Peppa: I win, Daddy.      
+Daddy Pig: Oh. Well done, Peppa.    
+*hint*:     
+- Well done意思是“做得好”，通常用来赞扬某人完成了某项任务或者达到了某个目标。这个短语在英语中非常常见，经常被用来鼓励和赞美他人的努力和成就。
+Geogre: Whaaaaaaaa!     
+Daddy Pig: Geogre?    
+Geogre: Whaaaaaaaa!    
+Mummy Pig: Geogre, what's the matter?      
+Geogre: Dinosaur.    
+Daddy Pig: George, have you lost Mr Dinosaur?
+*hint*     
+- 现在完成时用于过去发生的动作或现在联系，包括对现在的影响，造成的结果以动作的持续等。
+- 现在完成时的形式是由"have/has + 过去分词"构成。
+- 这句话中的have是现在完成时态的一部分。现在完成时态通常用于描述再过去发生但对现在仍有影响的事件。
+- have you lost 意味着你是否失去了，这是一个询问某人是否在过去的某个时间点失去了某东西。并且这个失去的状态可能持续到现在。
+- 如果换成“Did you lose Mr Dinosaur?”，那么就是在询问某人在过去的某个时间点是否失去了某东西，而这个失去的状态可能已经不再持续到现在。
+Narrator: George has lost Mr Dinosaur.     
+Mummy Pig: Don't worry,George.We'll find Mr Dinosaur.     
+Daddy Pig: It's‿a job(stop) for(↓)‿a detective.      
+*hint*:    
+- for的用法是表示适合或者指定某人做某事。
+- for在这里用来链接"job"和"a detective",表示这个工作是适合侦探来做的。
+Peppa: Daddy, What‿is‿a detective?     
+Daddy Pig: A detective(stop) is a very important person(stop) who is good‿at finding things.    
+*hint*:     
+- good at是一个固定搭配，用来描述某人擅长做某事。
+- at是一个介词，用来连接 good和后面的动词的动名词形式也就是以ing结尾的形式。
+Peppa: Me! Me! I'm good at finding things.     
+Daddy Pig: All right, Peppa is the detective.      
+Peppa: George. I am the detective. I will help you find Mr Dinosaur.     
+Mummy Pig: Maybe(stop) the detective should(stop) ask Geroge(stop) some(↓) simple questions.    
+Peppa: George, where's Mr Dinosaur?       
+George: Whaaaaaaa!     
+Narrator: George does(↓) not know where Mr Dinosaur is.      
+Daddy Pig: The detective could try(stop) and guess where Mr Dinosaur might be.    
+*hint*:    
+- may后面要跟动词原型。    
+Peppa: I know. I know where he(↓) is.     
+Peppa: George always has Mr Dinosaur with him(stop) in the bath.    
+*hint*:    
+- 在这个句子中，with是一个介词，用来表示一种伴随关系。    
+Peppa: So Mr Dinosaur‿is‿in the bath.    
+Narrator: Mr Dinosaur‿is not‿in the bath.    
+Peppa: Oh. I know. I know where Mr Dinosaur‿is.     
+Peppa: George always has Mr Dinosaur(stop) in‿his(↓) bed‿at night.     
