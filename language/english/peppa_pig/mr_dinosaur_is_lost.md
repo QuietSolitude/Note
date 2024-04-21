@@ -77,3 +77,32 @@ Peppa: So Mr Dinosaur‿is‿in the bath.
 Narrator: Mr Dinosaur‿is not‿in the bath.    
 Peppa: Oh. I know. I know where Mr Dinosaur‿is.     
 Peppa: George always has Mr Dinosaur(stop) in‿his(↓) bed‿at night.     
+Peppa: So Mr Dinosaur‿is‿in the bath.     
+Narrator: Mr Dinosaur‿is not‿in the bath.      
+Peppa: Oh. I know. I know where Mr Dinosaur‿is.     
+Peppa: George always has Mr Dinosaur(stop) in‿his(↓) bed‿at night.      
+Peppa: So that's where‿he(↓) is.     
+Narrator: Mr Dinosaur‿is not‿in George's bed.     
+Peppa: Oh.    
+Mummy Pig: Maybe(stop) we should try the garden.     
+Peppa: Yes, the garden. I was going to(↓) say that.     
+*hint*:     
+- 这是一个过去进行时的句子，表示在过去某个时间点，打算做某事，但可能并未实际完成。
+- going to是一个固定短语，用于表示打算或计划做某事。
+- that是代词，指代前文提到的某个事情或观点。
+Peppa: Where is Mr Dinosaur?     
+Narrator: Mr Dinosaur(stop) is very hard(stop) to find.     
+Peppa: Oh. Mr Dinosaur isn't‿anywhere.      
+Daddy Pig: George? You do love to(↓) throw Mr Dinosaur in the air.     
+*hint*:     
+- do love是一个强调句型，用来强调动作love。
+- to throw Mr Dinosaur in the air" 是动词love的宾语，是一个不定式短语，表示喜欢做的事情。
+Daddy Pig: I wonder‿if this time you threw Mr Dinosaur just‿a bit too high.     
+Peppa: There he is. There he is. I saw him first.     
+Daddy Pig: Well done, Peppa.     
+Daddy Pig: You really are a very good detective.     
+George: Dinosaur. Grrr!     
+Narrator: George is so(stop) happy to(↓) have Mr Dinosaur back‿again.    
+George: Whee!    
+Daddy Pig: Maybe(stop) it‿isn't a good idea to(↓) play(stop) with dinosaurs near trees.     
+George: Dinosaur!    
